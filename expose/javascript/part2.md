@@ -11,7 +11,12 @@
 11. nothing is printed because there is no console.log and there is no errors
 12.
   - A. ```let name = student['name'] 
-  - B. 
-  - C.
+  - B. ```let gradYear = student['Grad Year'];
+  - C. ```student.greeting();
+  - D. ```let favoriteTeacherName = student['Favorite Teacher'].name;
+  - E. ```let courseOne = student.courseLoad[0];
+
+
+
 
 
