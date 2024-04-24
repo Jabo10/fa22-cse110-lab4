@@ -10,12 +10,13 @@
 10. 3 is printed because length is a const and is declared in the function meaning it can be used in the function throughout as long as it is not changed.
 11. nothing is printed because there is no console.log and there is no errors
 12.
-  - A. ```javascript
-       let name = student['name'] 
-  - B. ```let gradYear = student['Grad Year'];
-  - C. ```student.greeting();
-  - D. ```let favoriteTeacherName = student['Favorite Teacher'].name;
-  - E. ```let courseOne = student.courseLoad[0];
+     
+      ```javascript
+      - A.  let name = student['name'];
+      - B. ```let gradYear = student['Grad Year'];
+      - C. ```student.greeting();
+      - D. ```let favoriteTeacherName = student['Favorite Teacher'].name;
+      - E. ```let courseOne = student.courseLoad[0];
 
 
 
