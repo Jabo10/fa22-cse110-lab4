@@ -15,6 +15,26 @@
       - C. student.greeting();
       - D. let favoriteTeacherName = student['Favorite Teacher'].name;
       - E. let courseOne = student.courseLoad[0];
+13.
+      - A. '32' - 2 is converted to a string and concatenated with the string '3'.
+      - B. 1   - '3' is converted to an integer then 2 gets subtracted.
+      - C. 3   -  null is converted to 0 then 3 is added 
+      - D. '3null'   - null is converted to a string 'null' and concatenated with string '3'.
+      - E. 4   - true is converted to 1 then is added to 3.
+      - F. 0   - false is converted to 0 and null is also converted to 0 then added 
+      - G.'3undefined'  - undefined is converted to string 'undefined' and concatenated to '3'.
+      - H. NaN   - undefined will not be a valid number which turns it to NaN which means Not a Number 
+14.
+      - A. true   -  '2' is converted to a number and then gets compared to 1 
+      - B. false  -  the string '2' is compared to '1' and '2' is greater than '1'.
+      - C. true   -  the string '2' is converted to a number then compared to 2 
+      - D. false  - no conversion happens and they are not the same type so not equal.
+      - E. false  - true is converted to 1 and 1 is not equal to 2.
+      - F. true   - anything that isnt 0 I think is true so so boolean(2) is true
+15. == is for checking if two values are unique and will convert one value to the same type before comparing in what is known as type coercion. === is also for the equality but does not allow for the type conversion so if they are different types then they will return false. 
+
+
+
 
 
 
