@@ -36,8 +36,11 @@
 19. The output of the code is
 
 1
+
 4
+
 3
+
 2
     
 
