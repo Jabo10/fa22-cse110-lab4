@@ -34,10 +34,10 @@
 15. == is for checking if two values are unique and will convert one value to the same type before comparing in what is known as type coercion. === is also for the equality but does not allow for the type conversion so if they are different types then they will return false.
 17. It first gets called by modifyArray([1, 2, 3], doSomething); which passes in an array and calls doSomething. First in modifyArray it will create a new empty array newArr then will enter a for loop that will go through the entire input array and for each element in the array it will call doSomething which will take the current element as its argument. In doSomething this will multiply it by 2 then the result will be pushed into this new array we established as newArr then when the loop is done it will return newArr. This will result in newArr[2,4,6] however nothing is printed so when you run the code nothing will output.
 19. The output of the code is
-     1
-     4
-     3
-     2
+1
+4
+3
+2
     
 
 
